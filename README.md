@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **foodSim**
 
-- 🌱 I’m currently learning **Unreal Engine 4**
+- 🌱 I’m currently learning **Unity Engine**
 
 - 👨‍💻 All of my projects are available at [VERY SOON](VERY SOON)
 
