@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetalasahn&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetalasahn" /> </p>
 
+- 🦎 Co-Founder of Livolar Studio
+
 - 🔭 I’m currently working on **foodSim**
 
 - 🌱 I’m currently learning **Unreal Engine**
