@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **foodSim**
 
-- 🌱 I’m currently learning **Unity Engine**
+- 🌱 I’m currently learning **Unreal Engine**
 
 - 👨‍💻 All of my projects are available at [VERY SOON](VERY SOON)
 
-- 💬 Ask me about **Unity, C#, C, HTML, CSS**
+- 💬 Ask me about **Unreal Engine, C#, C, C++, PHP, HTML, CSS**
 
 - 📫 How to reach me **ahmetalasahn@gmail.com**
 
